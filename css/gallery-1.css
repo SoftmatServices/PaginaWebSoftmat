@@ -106,7 +106,7 @@
 }
 
 .gallery-item .gallery-details {
-    text-align: center;
+    text-align: left: auto;;
     padding-top: 20px;
     background-color: #fff;
     bor der: 2px solid #ecf0f1;
